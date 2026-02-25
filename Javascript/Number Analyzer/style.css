@@ -1,0 +1,46 @@
+#d{
+background:linear-gradient(pink,fuchsia);
+box-shadow:2px 2px 2px 2px grey;
+border-radius:5px;
+margin:70px 70px 70px 70px;
+text-align:center;
+/*padding:10px;*/
+overflow:auto;
+}
+body{
+background-color:aqua;
+}
+.even_odd{
+font-size:1rem;
+font-family:sans-serif;
+margin:10px;
+padding:10px;
+color:white;
+text-shadow:2px 2px grey;
+}
+input{
+padding:10px;
+width:50%;
+border-radius:5px;
+}
+button{
+padding:10px;
+background-color:blue;
+color:white;
+border-radius:10px;
+}
+h1{
+text-align:center;
+color:orange;
+text-shadow:2px 2px black;
+}
+
+.alerting{
+background-color:red;
+color:white;
+position:fixed;
+bottom:0px;
+left:0px;
+
+
+}
