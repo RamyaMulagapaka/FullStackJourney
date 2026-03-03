@@ -1,6 +1,7 @@
 console.log("js is working");
 function analyze(){
 	var u=document.getElementById("d");
+	u.innerHTML="";
 	var input=document.getElementById("n").value;
 	input=Number(input);
 	var para=document.createElement("p");
@@ -59,6 +60,7 @@ function analyze(){
 		u.append(para6);
 		para6.textContent="Number too large ! Factorial not supported...";
 	}
+
 
 
 
