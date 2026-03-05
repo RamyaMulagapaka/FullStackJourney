@@ -1,0 +1,42 @@
+#first{
+background:linear-gradient(aqua,fuchsia);
+color:white;
+text-shadow:2px 2px grey;
+box-shadow:2px 2px 2px 2px black;
+text-align:center;
+font-size:1rem;
+border-radius:5px;
+margin:50px;
+}
+input{
+padding:10px;
+width:70%;
+border-radius:5px;
+}
+button{
+background-color:lime;
+color:blue;
+padding:10px;
+border-radius:5px;
+}
+.a{
+padding:10px;
+margin:5px;
+}
+
+h1{
+color:blue;
+text-shadow:2px 2px black;
+}
+
+.second{
+background-color:#ff9800;;
+color:black;
+//font-family:cursive;
+position:fixed;
+bottom:0px;
+left:0px;
+width:100%;
+border-radius:5px;
+text-align:center;
+}
